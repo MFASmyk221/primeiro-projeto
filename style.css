@@ -95,6 +95,7 @@ body {
 .apresentacao_conteudo_texto {
     text-align: justify;
     font-size:30px;
+    font-family: var(--font-primario);
 }
 
 .apresentacao_links {

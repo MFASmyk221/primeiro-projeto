@@ -120,6 +120,7 @@ body {
     font-size:24px;
     font-weight: 900;
     text-decoration: none;
+    flex-direction: row-reverse;
 }
 
 strong {
@@ -148,6 +149,7 @@ strong {
 
 .apresentacao_links_link:hover{
     border-color: var(--cor-hover);
+  
 }
 
 .rodape {
@@ -158,4 +160,7 @@ strong {
     font-weight: 800;
     font-size: 24px;
     margin: 0 0 0 -8rem;
+}
+.logo_link {
+    width: 35px;
 }
